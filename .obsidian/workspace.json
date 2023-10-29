@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "5b388be431ab5e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "96e760f189d0e694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "237c525a0bebeb26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15710e791a514d55",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4927f8d0615f0f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcad5af446119632",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "199e417edd320e8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "106e69e2dd0b0ecb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25d9f2854f05a115",
+    "type": "split",
+    "children": [
+      {
+        "id": "36ef47edbd35a3e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86c8672b52c95eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41f0243778f8cad1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa9d4ba02f4d9ef1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4e4ec8ffff3d579",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb0b1ee1fabd88e2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:打开/创建今天的日记": false
+    }
+  },
+  "active": "dcad5af446119632",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Java并发编程.md",
+    "2023-10-27.md",
+    "未命名.canvas",
+    "SpringBoot.md",
+    "概览.canvas",
+    "Java.md",
+    "Pasted image 20231027194841.png"
+  ]
+}
